@@ -1,0 +1,60 @@
+/* Custom Styles - Start */
+
+body {
+  background: #eee;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.nop {
+  padding: 0;
+}
+
+.nom {
+  margin: 0;
+}
+
+header {
+  background: #fff;
+  box-shadow: 0 1px 2px #ccc;
+  padding: 10px 0;
+}
+
+header h1 {
+  font-size: 25px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.pg-section {
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.txt-speech {
+  min-height: 250px;
+  resize: none;
+}
+
+#btn-start,
+#btn-end {
+  margin-top: 15px;
+  padding: 10px 40px;
+}
+
+#btn-end {
+  margin-left: 15px;
+}
+
+.instruction-wrapper {
+  border: 2px dashed #ccc;
+  color: #555;
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+  margin-top: 20px;
+  padding: 10px 15px;
+}
+
+/* Custom Styles - End */
